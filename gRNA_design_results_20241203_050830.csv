@@ -1,0 +1,14 @@
+Gene Name,Coffea Gene ID,gRNA Sequence,Position,Efficiency Score,Specificity Score,Off-target Count,GC Content,Status
+aspartate oxidase (AO),XM_027241553.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+quinolinate synthase (QS),XM_027217555.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+quinolinic acid phosphoribosyl transferase (QPT),XM_027258734.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+nicotinamidase,XM_027106166.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+ornithine decarboxylase (ODC),XM_027268990.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+putrescine N-methyltransferase (PMT-1),XM_027100312.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+putrescine N-methyltransferase (PMT-2),XM_027100312.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+N-methylputrescine oxidase (MPO),XM_027268990.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+A622,XM_027249933.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+BBL,XM_027235407.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+ADC (Arginine Decarboxylase),XM_027262854.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+AIC (agmatine deiminase-like),XM_027270193.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
+CPA (N-carbamoylputrescine amidase),XM_027227669.1,N/A,N/A,N/A,N/A,N/A,N/A,Error: HTTP Error 400: Bad Request
